@@ -45,7 +45,7 @@ The analysis is based on customer complaint narratives and operational data. You
 
 ## 📁 Repository Structure
 
-* `Gabungan Final banget.ipynb`: Main notebook containing the **Preprocessing Pipeline**, **EDA**, and **Delay Driver Analysis**.
+* `Model Final.ipynb`: Main notebook containing the **Preprocessing Pipeline**, **EDA**, and **Delay Driver Analysis**.
 * `Text Analysis.ipynb`: Dedicated NLP notebook featuring **Semantic Search** (via `SentenceTransformer`), sentiment analysis, and topic modeling.
 * `Final Project - DSA Compfest.pdf`: Final presentation deck summarizing the business value and implementation roadmap.
 ---
